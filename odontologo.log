@@ -29,3 +29,16 @@
 [2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:30] Este es el odontologo (sin BD) : Odontologo{id=1, matricula=123, nombre='Piero', apellido='Gamarra'}
 [2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:30] Este es el odontologo (sin BD) : Odontologo{id=2, matricula=456, nombre='Pedro2', apellido='Gamarra'}
 [2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:30] Este es el odontologo (sin BD) : Odontologo{id=3, matricula=789, nombre='Pedro3', apellido='Gamarra'}
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:16] Comenzamos a persistir un odontologo
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:30] Este es el odontologo que se guardó Pedro
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:16] Comenzamos a persistir un odontologo
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:30] Este es el odontologo que se guardó Piero
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:16] Comenzamos a persistir un odontologo
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:30] Este es el odontologo que se guardó Pedro2
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:16] Comenzamos a persistir un odontologo
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:30] Este es el odontologo que se guardó Pedro3
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:51] Comenzamos a listar todos los odontologos
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:64] Este es el odontologo: Odontologo{id=1, matricula=123, nombre='Pedro', apellido='Gamarra'}
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:64] Este es el odontologo: Odontologo{id=2, matricula=123, nombre='Piero', apellido='Gamarra'}
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:64] Este es el odontologo: Odontologo{id=3, matricula=456, nombre='Pedro2', apellido='Gamarra'}
+[2024-08-08 23:27:28] [ INFO ] [ImplementacionDaoH2:64] Este es el odontologo: Odontologo{id=4, matricula=789, nombre='Pedro3', apellido='Gamarra'}

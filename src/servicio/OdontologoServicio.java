@@ -12,7 +12,8 @@ public class OdontologoServicio {
     private IDao<Odontologo> idao;
 
     public OdontologoServicio() {
-        this.idao = new ImplementacionArrayList();
+        this.idao = new ImplementacionDaoH2();
+        // this.idao = new ImplementacionArrayList();
     }
 
     public Odontologo guardar(Odontologo odontologo){

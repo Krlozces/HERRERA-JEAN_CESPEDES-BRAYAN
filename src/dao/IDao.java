@@ -1,7 +1,9 @@
 package dao;
 
+import java.util.List;
+
 public interface IDao<T> {
     T guardar(T t);
 
-    void listarTodo();
+    List<T> listarTodo();
 }

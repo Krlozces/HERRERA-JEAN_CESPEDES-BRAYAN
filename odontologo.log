@@ -17,3 +17,15 @@
 [2024-08-08 22:39:14] [ INFO ] [ImplementacionDaoH2:64] Este es el odontologo: Odontologo{id=2, matricula=123, nombre='Piero', apellido='Gamarra'}
 [2024-08-08 22:39:14] [ INFO ] [ImplementacionDaoH2:64] Este es el odontologo: Odontologo{id=3, matricula=456, nombre='Pedro2', apellido='Gamarra'}
 [2024-08-08 22:39:14] [ INFO ] [ImplementacionDaoH2:64] Este es el odontologo: Odontologo{id=4, matricula=789, nombre='Pedro3', apellido='Gamarra'}
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:20] Agregando odontologo (sin BD)Pedro
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:22] Odontologo agregado Pedro
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:20] Agregando odontologo (sin BD)Piero
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:22] Odontologo agregado Piero
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:20] Agregando odontologo (sin BD)Pedro2
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:22] Odontologo agregado Pedro2
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:20] Agregando odontologo (sin BD)Pedro3
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:22] Odontologo agregado Pedro3
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:30] Este es el odontologo (sin BD) : Odontologo{id=0, matricula=123, nombre='Pedro', apellido='Gamarra'}
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:30] Este es el odontologo (sin BD) : Odontologo{id=1, matricula=123, nombre='Piero', apellido='Gamarra'}
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:30] Este es el odontologo (sin BD) : Odontologo{id=2, matricula=456, nombre='Pedro2', apellido='Gamarra'}
+[2024-08-08 23:23:38] [ INFO ] [ImplementacionArrayList:30] Este es el odontologo (sin BD) : Odontologo{id=3, matricula=789, nombre='Pedro3', apellido='Gamarra'}

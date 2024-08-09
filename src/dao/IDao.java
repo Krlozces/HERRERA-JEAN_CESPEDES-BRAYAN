@@ -1,4 +1,7 @@
 package dao;
 
-public interface IDao {
+public interface IDao<T> {
+    T guardar(T t);
+
+    void listarTodo();
 }
